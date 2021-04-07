@@ -8,3 +8,8 @@ function hello(){
     echo "Hello";
 }
 ?>
+//creating merge conflict on github
+function world(){
+  echo "World";
+}
+?>
