@@ -7,7 +7,7 @@ echo "First thing in file from vscode";
 function hello(){
     echo "Hello";
 }
-?>
+
 //creating merge conflict on github
 function world(){
   echo "World";
